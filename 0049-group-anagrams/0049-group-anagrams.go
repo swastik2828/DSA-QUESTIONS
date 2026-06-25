@@ -1,21 +1,15 @@
 func groupAnagrams(strs []string) [][]string {
-    res := make(map[[26]int][]string)
-
-    for _,s := range strs{
-        var count[26]int
-
-        for _,c := range s{
-            count[c - 'a']++
-        }
-        res[count] = append(res[count], s)
-
+    resMap := map[string][]string{}
+    for _, s := range strs {
+        sBytes := []byte(s)
+        slices.Sort(sBytes)
+        key := string(sBytes)
+        resMap[key] = append(resMap[key], s)
     }
 
-    ans := make([][] string, 0, len(res))
-
-    for _,group := range res{
-        ans = append(ans, group)
+    groups := make([][]string, 0, len(resMap))
+    for _, v := range resMap {
+        groups = append(groups, v)
     }
-
-    return ans
+    return groups
 }
