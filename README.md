@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0287-find-the-duplicate-number) |
