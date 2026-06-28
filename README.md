@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
