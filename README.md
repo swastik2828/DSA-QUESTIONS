@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0152-maximum-product-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
