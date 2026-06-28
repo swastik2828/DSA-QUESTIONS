@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0049-group-anagrams) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0242-valid-anagram) |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0238-product-of-array-except-self) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
