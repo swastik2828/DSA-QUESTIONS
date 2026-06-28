@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0056-merge-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
