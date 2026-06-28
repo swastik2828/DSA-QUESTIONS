@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
