@@ -1,4 +1,8 @@
 func trap(arr []int) int {
+    if len(arr) == 0 {
+        return 0
+    }
+
     lmax := 0
     rmax := 0
     total := 0
@@ -24,4 +28,8 @@ func trap(arr []int) int {
 
     }
     return total
+}
+
+func init() {
+	debug.SetMemoryLimit(1)
 }
