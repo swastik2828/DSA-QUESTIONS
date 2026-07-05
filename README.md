@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0049-group-anagrams) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0031-next-permutation) |
