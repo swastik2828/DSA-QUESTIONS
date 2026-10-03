@@ -1,23 +1,15 @@
 func getRow(rowIndex int) []int {
-    ans := generate(rowIndex+1)
-    return ans[rowIndex]
-}
+    ans := make([]int, 1)
+    ans[0] = 1
 
-func generate(numRows int) [][]int {
-    result := make([][]int, 0, numRows)
+    for i := 1; i <= rowIndex; i++ {
+        ans = append(ans, 1)
 
-    for i := 0; i< numRows; i++ {
-        row := make([]int, i+1)
-
-        row[0] = 1
-        row[i] = 1
-
-        for j:= 1; j < i; j++ {
-            row[j] = result[i-1][j-1] + result[i-1][j]
+        for j := i-1; j > 0; j-- {
+            ans[j] = ans[j] + ans[j-1]
         }
 
-        result = append(result, row)
     }
+    return ans
 
-    return result
 }
