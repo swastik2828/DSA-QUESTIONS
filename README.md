@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0287-find-the-duplicate-number) |
+| [1480-running-sum-of-1d-array](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
 |  |
 | ------- |
