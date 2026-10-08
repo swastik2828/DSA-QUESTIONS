@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
