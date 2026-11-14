@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -164,8 +168,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
