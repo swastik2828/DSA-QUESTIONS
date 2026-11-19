@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/2227-encrypt-and-decrypt-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0347-top-k-frequent-elements) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/2227-encrypt-and-decrypt-strings) |
 ## String
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0344-reverse-string) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/2227-encrypt-and-decrypt-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0014-longest-common-prefix) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/2227-encrypt-and-decrypt-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -185,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [2227-encrypt-and-decrypt-strings](https://github.com/swastik2828/DSA-QUESTIONS/tree/master/2227-encrypt-and-decrypt-strings) |
 <!---LeetCode Topics End-->
